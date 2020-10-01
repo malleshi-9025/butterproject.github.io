@@ -1,6 +1,6 @@
 # Butter website
 
-### Get started:
+### Get started Amazing Butter website:
 
 ```
 npm install
